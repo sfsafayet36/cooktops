@@ -14,7 +14,7 @@ function addrun() {
         }
 
 
-    }, 50)
+    }, 15)
 }
 addrun()
 
@@ -28,6 +28,6 @@ function addreverse() {
             clearInterval(setint2)
             addrun()
         }
-    }, 50)
+    }, 15)
 }
 
